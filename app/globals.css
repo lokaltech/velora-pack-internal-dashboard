@@ -1,8 +1,15 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --velora-navy: #0b2d5c;
+  --velora-blue: #2f80ed;
+  --film-blue: #b8d9ff;
+  --background: #f8fafc;
+  --text: #111827;
+  --border: #e5e7eb;
+  --success: #10b981;
+  --warning: #f59e0b;
+  --error: #ef4444;
 }
 
 @theme inline {
